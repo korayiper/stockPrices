@@ -72,3 +72,4 @@ empty_df.groupby("ISIN")["return"].median()
 
 plt.plot(df['Close'])
 plt.show()
+plt.show()
